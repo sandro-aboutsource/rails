@@ -1,3 +1,7 @@
+*   Remove deprecated support to call private methods from object in some view helpers.
+
+    *Rafael Mendonça França*
+
 *   `ActionView::Base.annotate_template_file_names` annotates HTML output with template file names.
 
     *Joel Hawksley*, *Aaron Patterson*
