@@ -1,3 +1,7 @@
+*   Remove deprecated `ActionDispatch::Http::ParameterFilter`.
+
+    *Rafael Mendonça França*
+
 *   Remove deprecated `force_ssl` at the controller level.
 
     *Rafael Mendonça França*
